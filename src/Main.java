@@ -5,6 +5,7 @@ public class Main {
 
         //EU4 is good at IntelliJ
         //Yies
+        //no
 
     }
 
